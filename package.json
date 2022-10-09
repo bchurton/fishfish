@@ -1,0 +1,16 @@
+{
+    "name": "fishfish",
+    "version": "0.0.1",
+    "description": "catchin fish since '22",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        
+    },
+    "repository": { 
+        "type": "git",
+        "url": "https://github.com/bchurton/fishfish" 
+    }
+}
